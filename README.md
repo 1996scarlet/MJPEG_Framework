@@ -2,7 +2,7 @@
 
 ## 功能介绍与原理简要说明
 
-* [基于MJPEG协议的流媒体服务框架说明.pptx](./introduction/intro.pptx)
+* [基于MJPEG协议的流媒体服务框架说明](./introduction/intro.pdf)
 
 ## 性能对比（对照组：H.264+nginx_rtmp+flash）
 
